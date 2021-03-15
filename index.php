@@ -58,6 +58,10 @@ switch ($request) {
                  header("Location: /jforce/view/basarihikayeleri.php");
                  exit();
                  break;
+  case '/jforce/index.php/adminpanel' :
+                 header("Location: /jforce/admin/index.php");
+                 exit();
+                 break;
     default:
         header("Location: /jforce/view/404.php");
         exit();
