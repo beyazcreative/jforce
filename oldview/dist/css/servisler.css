@@ -1,0 +1,106 @@
+.servisler-header{
+	background-image:url("../../img/servisler_banner_web.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 50vh;		
+}
+
+@media only screen and (max-width:500px){.servisler-header {
+	background-image:url("../../img/servisler_banner_mobile.png"); width: auto-mx;;
+
+}}
+
+
+
+.card{
+	background: #ffffff;
+box-shadow:  20px 20px 60px #d9d9d9,
+             -20px -20px 60px #ffffff;
+}
+
+
+.kurumsaluygulamagelistirme{
+    background-image:url("../../img/kurumsaluygulamagelistirme.png"); width: auto-mx; ;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 20vh;		
+}
+
+
+@media only screen and (max-width:725px){.kurumsaluygulamagelistirme {
+    background-image:url("../../img/kurumsaluygulama-mobile.png"); width: auto-mx; ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;	
+}}
+
+.servislermentorluk{
+    background-image:url("../../img/servisler-mentorluk.png"); width: auto-mx; ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+.mikrohizmetler{
+    background-image:url("../../img/servisler-mikrohizmetler.png");  width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+
+.veribirimleri{
+    background-image:url("../../img/veribirimleri.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+
+.diskaynak{
+    background-image:url("../../img/diskaynak.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+.yediyirmidort{
+    background-image:url("../../img/yediyirmidort.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+
+.servis-egitim{
+    background-image:url("../../img/servis-egitim.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+
+.uygulamayonetimi{
+    background-image:url("../../img/uygulamayonetimi.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+.donanimbakimi{
+    background-image:url("../../img/donanimbakimi.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+
+.rpggelistirme{
+    background-image:url("../../img/rpggelistirme.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 60vh;		
+}
+
+
+@media only screen and (max-width:500px){h1 {
+	font-size: 1.5em !important;
+
+}}
+
+
+.hakkimizda-title{
+    font-size: 2em !important;
+}

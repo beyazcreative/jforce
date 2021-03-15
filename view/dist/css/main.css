@@ -1,0 +1,482 @@
+.degerlerimiz-header {
+    background-image: url("../../img/degerlerimiz_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .degerlerimiz-header {
+        background-image: url("../../img/degerlerimiz_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    img {
+        width: 250px;
+    }
+}
+
+
+/*-------*/
+
+.hakkimizda-header {
+    background-image: url("../../img/hakkimizda_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .hakkimizda-header {
+        background-image: url("../../img/hakkimizda_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .btn-iletisim {
+        text-align: center;
+    }
+}
+
+.btn-iletisim:hover {
+    transform: translate(0px, -5px);
+    transition: 0.3s;
+}
+
+.card {
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 18px 18px 33px #d9d9d9, -18px -18px 33px #ffffff;
+}
+
+.card {
+    border: none !important;
+    transition: 0.3s;
+}
+
+.card-text {
+    font-size: 18pt;
+    font-weight: 700;
+}
+
+.wrapper {
+    margin: auto;
+}
+
+@media only screen and (max-width:500px) {
+    .row {
+        text-align: center;
+    }
+}
+
+.card:hover {
+    transform: translate(0px, -10px);
+    background-color: #1783BF;
+}
+
+.card:hover #right-arrow {
+    transform: translate(10px, 0px);
+    transition: 0.5s;
+    background-color: #1783BF;
+}
+
+.card:hover #yonetimsemasi {
+    fill: white !important;
+}
+
+.card:hover #tarihcemiz {
+    fill: white !important;
+}
+
+.card:hover #vizyonumuz {
+    fill: white !important;
+}
+
+.card:hover #misyonumuz {
+    fill: white !important;
+}
+
+.card:hover #degerlerimiz {
+    fill: white !important;
+}
+
+.card:hover #odullerimiz {
+    fill: white !important;
+}
+
+.card:hover #rightarrow {
+    fill: white !important;
+}
+
+.card:hover .card-text {
+    color: white !important;
+}
+
+
+/*---------------*/
+
+.misyonumuz-header {
+    background-image: url("../../img/misyonumuz_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .misyonumuz-header {
+        background-image: url("../../img/misyonumuz_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    img {
+        width: 250px;
+    }
+}
+
+
+/*-----------------*/
+
+.odullerimiz-header {
+    background-image: url("../../img/odullerimiz_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .odullerimiz-header {
+        background-image: url("../../img/odullerimiz_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    img {
+        width: 250px;
+    }
+}
+
+
+/*---------*/
+
+.sagliksigortasi-header {
+    background-image: url("../../img/sagliksigortasi_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .sagliksigortasi-header {
+        background-image: url("../../img/sagliksigortasi_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    img {
+        width: 250px;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .page-title {
+        font-size: 2.3em !important;
+    }
+}
+
+.pager .active a {
+    background-color: #337AB7;
+    color: #FFF;
+    border: 0px;
+}
+
+.btn-outline {
+    border-radius: 20px !important;
+    border: 2px solid #0099cc !important;
+    color: #0099cc !important;
+}
+
+.data-body {
+    background: #ffffff;
+    box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+}
+
+
+/*---------------*/
+
+.servisler-header {
+    background-image: url("../../img/servisler_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .servisler-header {
+        background-image: url("../../img/servisler_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+.card {
+    background: #ffffff;
+    box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+}
+
+.kurumsaluygulamagelistirme {
+    background-image: url("../../img/kurumsaluygulamagelistirme.png");
+    width: auto-mx;
+    ;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 20vh;
+}
+
+@media only screen and (max-width:725px) {
+    .kurumsaluygulamagelistirme {
+        background-image: url("../../img/kurumsaluygulama-mobile.png");
+        width: auto-mx;
+        ;
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 60vh;
+    }
+}
+
+.servislermentorluk {
+    background-image: url("../../img/servisler-mentorluk.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.mikrohizmetler {
+    background-image: url("../../img/servisler-mikrohizmetler.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.veribirimleri {
+    background-image: url("../../img/veribirimleri.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.diskaynak {
+    background-image: url("../../img/diskaynak.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.yediyirmidort {
+    background-image: url("../../img/yediyirmidort.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.servis-egitim {
+    background-image: url("../../img/servis-egitim.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.uygulamayonetimi {
+    background-image: url("../../img/uygulamayonetimi.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.donanimbakimi {
+    background-image: url("../../img/donanimbakimi.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.rpggelistirme {
+    background-image: url("../../img/rpggelistirme.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+@media only screen and (max-width:500px) {
+    h1 {
+        font-size: 1.5em !important;
+    }
+}
+
+.hakkimizda-title {
+    font-size: 2em !important;
+}
+
+
+/*------*/
+
+.tarihcemiz-header {
+    background-image: url("../../img/tarihcemiz_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .tarihcemiz-header {
+        background-image: url("../../img/tarihcemiz_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    img {
+        width: 250px;
+    }
+}
+
+
+/*---------*/
+
+.vizyonumuz-header {
+    background-image: url("../../img/vizyonumuz_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .vizyonumuz-header {
+        background-image: url("../../img/vizyonumuz_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    img {
+        width: 250px;
+    }
+}
+
+
+/*-------*/
+
+.webinarlar-header {
+    background-image: url("../../img/webinarlar_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .webinarlar-header {
+        background-image: url("../../img/webinarlar_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+.webinarlar-title {
+    margin-top: 40vh;
+    margin-left: 10vw;
+    position: absolute;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3em;
+}
+
+.siradakiWebinar_sol {
+    justify-content: left;
+}
+
+img {
+    max-width: 100vw;
+    height: auto;
+}
+
+@media only screen and (max-width:500px) {
+    .webinar_info {
+        text-align: center;
+    }
+}
+
+
+/*------*/
+
+.yonetimsemasi-header {
+    background-image: url("../../img/yonetimsemasi_banner_web.png");
+    width: auto-mx;
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+}
+
+@media only screen and (max-width:500px) {
+    .yonetimsemasi-header {
+        background-image: url("../../img/yonetimsemasi_banner_mobile.png");
+        width: auto-mx;
+        ;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    img {
+        width: 250px;
+    }
+}

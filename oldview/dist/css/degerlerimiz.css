@@ -1,0 +1,17 @@
+.degerlerimiz-header{
+	background-image:url("../../img/degerlerimiz_banner_web.png"); width: auto-mx;;
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 50vh;		
+}
+
+@media only screen and (max-width:500px){.degerlerimiz-header {
+	background-image:url("../../img/degerlerimiz_banner_mobile.png"); width: auto-mx;;
+
+}}
+
+
+@media only screen and (max-width:500px){img {
+    width: 250px;
+
+}}
